@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+  <title>Ushtrimi i pare</title>
+  </head>
+   <body>
+   <p>Ushtrimi i pare</p>
+    </body>
+   
+</html>
