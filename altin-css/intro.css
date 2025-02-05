@@ -1,0 +1,43 @@
+/* selector{declration}*/
+/* Universal selector*/
+* {
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+
+/* Element(tag) selector */
+h2 {
+    color: red;
+    font-size:25px;
+    background-color: black;
+}
+
+/* ID selector*/
+
+#p1 {
+    color:blue;
+    font-size: 15px;
+    background-color: yellow;
+    
+}
+/*Class selection */
+
+.para {
+    background-color: pink;
+    color:purple;
+    font-size:30px;
+}
+ /*descending selector*/
+  div {
+    color: orange;
+    background-color: lightgrey;
+    font-size: 17px;
+
+  }
+  /*child selector*/
+  div > h2{
+    color: brown;
+    background-color: rgb(49,22,171);
+    font-size: 17px;
+  }
